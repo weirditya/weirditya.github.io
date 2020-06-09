@@ -1,0 +1,20 @@
+## **Aditya Totla Portfolio Website**
+---
+
+**Website Link**: (https://adityatotla.github.io/)
+
+---
+# Portfolio Website
+
+My personal portfolio page, where I will be putting my projects, resume, as well as other related social links! 
+
+## Built With
+
+* HTML
+* CSS
+* Javascript
+* Bootstrap
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
