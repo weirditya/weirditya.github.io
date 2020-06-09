@@ -1,7 +1,7 @@
 ## **Aditya Totla Portfolio Website**
 ---
 
-**Website Link**: (https://adityatotla.github.io/)
+**Website Link**: (https://weirditya.github.io/)
 
 ---
 # Portfolio Website
